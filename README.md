@@ -1,5 +1,5 @@
-# ANÁLISIS DE DATOS DE ACTIVIDAD DE VUELOS Y FIDELIZACIÓN DE LOS CLIENTE
-Este proyecto es un análisis de datos extraídos de dos fuentes fuentes diferentes. Por un lado, tenemos la actividad de vuelos de los clientes y por el otro, su historial de fidelidad. Este proyecto se ha llevado a cabo con el objetivo de obtener información sobre patrones de comportamiento de los clientes y profundizar en la información disponible.
+# ANÁLISIS DE DATOS DE ACTIVIDAD DE VUELOS Y FIDELIZACIÓN DE LOS CLIENTES
+Este proyecto es un análisis de datos extraídos de dos fuentes diferentes. Por un lado, tenemos la actividad de vuelos de los clientes y por el otro, su historial de fidelidación. Este proyecto se ha llevado a cabo con el objetivo de obtener información sobre patrones de comportamiento de los clientes y profundizar en la información disponible.
 
 # DATOS UTILIZADOS Y TRANSFORMACIONES REALIZADAS
 
